@@ -1,0 +1,7 @@
+Topik, Hari, Tanggal, Mood, Catatan
+Sekolah/Senin/20 November 2023/Marah/Menyebalkan!
+Belanja/Selasa/21 November 2023/Senang/Belanja Sayur Ke Pasar
+Kebakaran/Rabu/22 November 2023/Takut/Aku melihat kebakaran saat pulang sekolah
+Olimpiade/Kamis/23 November 2023/Bangga/Aku mendapat juara 1
+Sekolah/Jumat/24 November 2023/Senang/Disekolah hari ini ada kegiatan Jumat Taqwa
+Pramuka/Sabtu/25 November 2023/Senang/Hari ini kegiatan Pramuka, menyenangkan sekali belajar sandi morse
